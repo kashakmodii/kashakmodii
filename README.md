@@ -1,6 +1,6 @@
 <div align="center">
-  <!-- Animated name/title -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FFAA&center=true&width=500&lines=Welcome to my Github Profile!I am Kashak+Modi;AI%2FML+Developer;Python+%26+Data+Specialist" alt="Name animation">
+  <!-- Welcome message with typing animation -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FFAA&center=true&width=500&lines=Welcome+to+my+GitHub+Profile!;I+am+Kashak+Modi;AI%2FML+Developer;Python+Specialist" alt="Welcome animation">
   
   <!-- Coding animation -->
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHhuamdyZG12OHRkY3owYnV2OXc3MHhkdnlsaXo2eHh4YTlqcWo3eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IOwzBZrp0VIpdXkYDc/giphy.gif" width="700" alt="Coding animation">
@@ -37,8 +37,7 @@
 <div align="center">
   <!-- GitHub snake animation -->
   <img src="https://raw.githubusercontent.com/kashakmodii/kashakmodii/output/github-contribution-grid-snake-dark.svg" width="100%">
-</div>
-
-<div align="center">
-  <p>✨ Thanks for visiting! ✨</p>
+  
+  <!-- Simple footer -->
+  <p>✨ Let's build something amazing together! ✨</p>
 </div>
