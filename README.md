@@ -38,6 +38,6 @@
   <!-- GitHub snake animation -->
   <img src="https://raw.githubusercontent.com/kashakmodii/kashakmodii/output/github-contribution-grid-snake-dark.svg" width="100%">
   
-  <!-- Simple footer -->
-  <p>✨ Let's build something amazing together! ✨</p>
+  <!-- Clean footer without hidden icon -->
+  <p>Let's build something amazing together!</p>
 </div>
