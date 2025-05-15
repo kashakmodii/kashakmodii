@@ -6,7 +6,7 @@
 
 ### 💼 About Me
 
-🎓 2nd Year AIML Student  
+🎓 I’m currently in my second year of pursuing a degree in Artificial Intelligence & Machine Learning (AI/ML)  
 🤖 Passionate about Artificial Intelligence and Machine Learning  
 🐍 Python Enthusiast | 🧠 Deep Learning Explorer  
 📈 Data Science | 📊 Visualization | 📚 Continuous Learner  
