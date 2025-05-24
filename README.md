@@ -32,6 +32,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![DBMS](https://img.shields.io/badge/-DBMS-003B57?logo=postgresql&logoColor=white&style=for-the-badge)
 ![Operating System](https://img.shields.io/badge/-OS-999999?logo=windows&logoColor=white&style=for-the-badge)
+![Google Colab](https://img.shields.io/badge/-Google_Colab-F9AB00?logo=google-colab&logoColor=white&style=for-the-badge)
 
 ---
 
