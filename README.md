@@ -6,7 +6,7 @@
 
 ### 💼 About Me
 
-🎓 I’m currently in my second year of pursuing a degree in Artificial Intelligence & Machine Learning (AI/ML)  
+🎓 I’m currently in my third year of pursuing a degree in Artificial Intelligence & Machine Learning (AI/ML)  
 🤖 Passionate about Artificial Intelligence and Machine Learning  
 🐍 Python Enthusiast | 🧠 Deep Learning Explorer  
 📈 Data Science | 📊 Visualization | 📚 Continuous Learner  
