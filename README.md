@@ -4,7 +4,7 @@
 
 ---
 
-### 👨‍💻 About Me
+###  About Me
 
 I’m currently in my third year of pursuing a degree in Artificial Intelligence & Machine Learning (AI/ML)  
 Passionate about Artificial Intelligence and Machine Learning  
@@ -34,31 +34,12 @@ Python Enthusiast |  Machine Learning Explorer | Data Science |  Visualization |
 
 ---
 
-### 📊 GitHub Stats & Activity  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kashakmodi&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kashakmodi&theme=radical" alt="GitHub Streak" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashakmodi&layout=compact&theme=radical" alt="Top Languages" height="160"/>
-</p>
-
----
-
-### 🐍 Watch My Contributions Snake  
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kashakmodi/kashakmodi/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
 
 ### 🤝 Let's Connect!
 
 📫 Feel free to connect with me:  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/kashakmodi/)  
+
 
 ---
 
