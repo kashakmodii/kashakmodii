@@ -8,7 +8,7 @@
 
 I’m currently in my third year of pursuing a degree in Artificial Intelligence & Machine Learning (AI/ML)  
 Passionate about Artificial Intelligence and Machine Learning  
-Python Enthusiast |  Machine Learning Explorer | Data Science |  Visualization | Continuous Learner  
+Python |  Machine Learning | Data Analysis |  Data Visualization   
 
 ---
 
