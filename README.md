@@ -6,7 +6,7 @@
 
 ###  About Me
 
-I’m currently in my third year of pursuing a degree in Artificial Intelligence & Machine Learning (AIML)  
+I’m currently in my fourth year of pursuing a degree in Artificial Intelligence & Machine Learning (AIML)  
 Passionate about Artificial Intelligence and Machine Learning  
 Python |  Machine Learning | Data Analysis |  Data Visualization   
 
